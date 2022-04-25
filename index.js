@@ -1,1 +1,6 @@
-// Code your solution in this file!
+//declare companyName variable set to Scuber 
+const companyName = 'Scuber';
+
+let mostProfitableNeighborhood = "Chelsea";
+
+let companyCeo = 'Susan Smith';
